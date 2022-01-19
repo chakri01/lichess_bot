@@ -10,7 +10,10 @@
 - Stockfish-14 chess engine
 
 ## Outputs 
-![OUTPUT1](https://drive.google.com/file/d/1ekaFse8xVNOkAs9H_dhVKMzoxYruyjA0/view?usp=sharing)
-![OUTPUT2](https://drive.google.com/file/d/1RCYHTWae1Ypke9Z0UZMkHpIYx4gm-9_1/view?usp=sharing)
+![OUTPUT1](https://github.com/chakri01/lichess_bot/blob/main/outputs/output2.jpg)
+</br>
+</br>
+</br>
+![OUTPUT2](https://github.com/chakri01/lichess_bot/blob/main/outputs/output1.jpg)
 
 
